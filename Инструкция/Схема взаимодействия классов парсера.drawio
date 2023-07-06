@@ -1,0 +1,131 @@
+<mxfile host="app.diagrams.net" modified="2023-07-04T16:55:13.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EQphhvUU_du4aepo49ZH" version="21.3.1" type="device">
+  <diagram name="Страница 1" id="nbti-a4EtbeVRDQB7Osv">
+    <mxGraphModel dx="7850" dy="-1819" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-3" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2698" y="2548" as="sourcePoint" />
+            <mxPoint x="2798" y="2448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4573" y="7785" as="sourcePoint" />
+            <mxPoint x="-2712" y="7785" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-4563" y="7795" as="sourcePoint" />
+            <mxPoint x="-2702" y="7795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1128" y="7853" as="sourcePoint" />
+            <mxPoint x="556" y="7853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="6498" y="6935" as="sourcePoint" />
+            <mxPoint x="6498" y="5468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2796" y="10401" as="sourcePoint" />
+            <mxPoint x="2796" y="8934" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9544" y="10892" as="sourcePoint" />
+            <mxPoint x="8008" y="9068" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10200" y="7372" as="sourcePoint" />
+            <mxPoint x="7736" y="8236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZX9GfyVuycFqqwVFvj_X-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=100;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4690" y="7991" as="sourcePoint" />
+            <mxPoint x="5672" y="7991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-8" value="Подключение к БД" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="PtrPZwptXR9vcun16bUT-1" target="PtrPZwptXR9vcun16bUT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-1" value="class Lite Connector" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6285" y="2717" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="PtrPZwptXR9vcun16bUT-2" target="PtrPZwptXR9vcun16bUT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-14" value="Операции по таблице Товаров CARD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="PtrPZwptXR9vcun16bUT-13">
+          <mxGeometry x="-0.1762" relative="1" as="geometry">
+            <mxPoint x="-8" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-2" value="class CardManioulator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6528" y="2598" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="PtrPZwptXR9vcun16bUT-3" target="PtrPZwptXR9vcun16bUT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-16" value="Операции по таблице Сертификатов" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="PtrPZwptXR9vcun16bUT-15">
+          <mxGeometry x="-0.4706" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-3" value="class CertManipulator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6040.5" y="2602" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-17" value="Данные о товаре" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="PtrPZwptXR9vcun16bUT-4" target="PtrPZwptXR9vcun16bUT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-4" value="class CardParser" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6528" y="2469" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-18" value="Данные о сертификатах" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="PtrPZwptXR9vcun16bUT-5" target="PtrPZwptXR9vcun16bUT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-5" value="class CertParser" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6040.5" y="2469" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-9" value="Создание таблиц" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="PtrPZwptXR9vcun16bUT-6" target="PtrPZwptXR9vcun16bUT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-6" value="class Migrate" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6285" y="2877" width="191" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-7" value="" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-5975" y="2795" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-19" value="парсит каталог ВБ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6655" y="2484" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-21" value="Проводит sql запросы с товарами из ВБ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6671" y="2613" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-22" value="Подключается к БД" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6219.5" y="2793" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-23" value="Создает и проверяет таблицы баз данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-6246.25" y="2961" width="113.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-24" value="Проверяет товары из ВБ на сертификаты и парсит сертификаты с FSA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-5828" y="2484" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PtrPZwptXR9vcun16bUT-25" value="Проводит sql запросы с сертификатами" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-5828" y="2617" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
